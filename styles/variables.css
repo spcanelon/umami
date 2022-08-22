@@ -1,17 +1,17 @@
 :root {
   --gray50: #ffffff;
-  --gray75: #fafafa;
+  --gray75: #fffbf2; /* #fafafa; */
   --gray100: #f5f5f5;
   --gray200: #eaeaea;
   --gray300: #e1e1e1;
   --gray400: #cacaca;
-  --gray500: #b3b3b3;
+  --gray500: #2e4963; /* #b3b3b3; */
   --gray600: #8e8e8e;
   --gray700: #6e6e6e;
   --gray800: #4b4b4b;
-  --gray900: #2c2c2c;
+  --gray900: #002642; /* #2c2c2c; */
 
-  --primary400: #2680eb;
+  --primary400: #a23e02; /* #2680eb;*/
   --primary500: #1473e6;
   --primary600: #0d66d0;
   --primary700: #095aba;
