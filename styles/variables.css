@@ -1,10 +1,10 @@
 :root {
   --gray50: #fffbf2; /* #ffffff; */
   --gray75: #faf0e3; /* #fafafa; */
-  --gray100: #f5f5f5;
-  --gray200: #faf0e3; /* #eaeaea; */
-  --gray300: #e1e1e1;
-  --gray400: #cacaca;
+  --gray100: #faf0e3; /* #f5f5f5; */
+  --gray200: #eaeaea;
+  --gray300: #faf0e3; /* #e1e1e1; */
+  --gray400: #faf0e3; /* #cacaca; */
   --gray500: #2e4963; /* #b3b3b3; */
   --gray600: #8e8e8e;
   --gray700: #6e6e6e;
